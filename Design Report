@@ -1,0 +1,18 @@
+                                                                                               Introduction
+For this milestone I am adding an navigation bar/menu to the my already defined Rest Api. I kept it simple and based the design on the CRUD operations.
+                                                                                               Requirements
+
+My application must already have the ability to: Create, Read, Update, and Delete. That's alreayd been acomplished. Now it must also be able to support:
+
+- Having a naviagtion bar/menu with the ability to navigate the application. 
+- Also I did not make any changes to my rest Api, therefore I do not need to show its functionality again, only the new features. 
+
+
+The logic rough draft of my nav bar can be viewed in the ER diagram file. There are a few changes that can noted such as
+- all links to CRUD operation are on the same page, unlike the rough draft which has them as separate pages that can only be accessed after "create product"
+
+
+
+
+                                                                                               
+
